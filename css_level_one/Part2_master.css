@@ -1,0 +1,23 @@
+body {
+  /* background-color: gray; */
+  background: url(https://dvblobcdnjp.azureedge.net//Content/Upload/Popular/Images/2018-11/b63053c6-428b-4cf7-a82c-8a1dcd2371db_m.jpg);
+  /* background-repeat: no-repeat; */
+  background-repeat: repeat;
+}
+
+div {
+  background: red;
+  border-color: blue;
+  /* border-width: thick; */
+  border-width: 10px;
+  border-style: double;
+}
+
+p {
+  color: yellow;
+}
+
+span {
+  background: blue;
+  color: black;
+}
